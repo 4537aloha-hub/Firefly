@@ -32,7 +32,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa6-solid:envelope",
-			url: "4537aloha@gmail.com",
+			url: "https://mail.google.com/mail",
 			showName: false,
 		},
 		{
