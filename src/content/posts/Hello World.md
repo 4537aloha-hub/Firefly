@@ -1,7 +1,6 @@
 ---
 title: Hello World!
 published: 2026-01-23
-pinned: true
 description: 你好，世界！
 tags: [说说]
 category: 说说
