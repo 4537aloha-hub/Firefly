@@ -36,7 +36,7 @@
 如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
 - 💻 **GitHub**: [Aloha](https://github.com/4537aloha-hub)
-- ✉️ **Email**: [xiaye@msn.com](aloha4537@outlook.com)
+- ✉️ **Email**: aloha4537[@outlook.com](aloha4537@outlook.com)
 - 🐧 **QQ**:357492240
 
 ---
