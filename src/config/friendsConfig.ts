@@ -26,6 +26,7 @@ export const friendsConfig: FriendLink[] = [
 		imgurl: "/assets/images/friend_avatar/fll skx博客友链头像.jpg",
 		desc: "在边界之外，保存尚未消散的回声.",
 		siteurl: "https://www.skx1359.top/",
+		tags: ["bestfriend"],
 		weight: 2,
 		enabled: true,
 	},
