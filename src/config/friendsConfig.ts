@@ -10,6 +10,7 @@ export const friendsPageConfig: FriendsPageConfig = {
 
 // 友链配置
 export const friendsConfig: FriendLink[] = [
+
 	{
 		title: "Astro",
 		imgurl: "https://avatars.githubusercontent.com/u/44914786?v=4&s=640",
@@ -17,6 +18,15 @@ export const friendsConfig: FriendLink[] = [
 		siteurl: "https://github.com/withastro/astro",
 		tags: ["Framework"],
 		weight: 1,
+		enabled: true,
+	},
+
+	{
+		title: "beyond Notes",
+		imgurl: "/assets/images/friend_avatar/fll skx博客友链头像.jpg",
+		desc: "在边界之外，保存尚未消散的回声.",
+		siteurl: "https://www.skx1359.top/",
+		weight: 2,
 		enabled: true,
 	},
 ];
